@@ -1,0 +1,1 @@
+Script de tratamento de imagens por binarização. As imagens para as quais ele está configurado são de blocos cerâmicos contendo manchas de argamassa. O objetivo é segmentar por binarização esta mancha e calculá-la em termos de porcentagem de área de contato.
