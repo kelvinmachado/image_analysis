@@ -1,0 +1,4 @@
+Estrutura de pastas:
+
+entrada -> pasta com as imagens a serem tratadas
+saida -> pasta criada depois do script rodar contendo as imagens tratadas
